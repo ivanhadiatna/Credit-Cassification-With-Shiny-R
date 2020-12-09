@@ -1,0 +1,13 @@
+name: Credit_Scoring
+title: Credit_Scoring
+username:
+account: ivan-hadiatna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2757842
+bundleId: 3621599
+url: https://ivan-hadiatna.shinyapps.io/Credit_Scoring/
+when: 1599904906.00928
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|credit_scoring.xlsx|DATA UJI COBA.xlsx|hasil-DATA UJI COBA.xlsx|Riskrating_Data.RData|Test.xlsx|Dataset

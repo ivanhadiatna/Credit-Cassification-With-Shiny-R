@@ -1,0 +1,13 @@
+name: Credit_Scoring
+title: Credit_Scoring
+username:
+account: skripsi20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2757824
+bundleId: 3595852
+url: https://skripsi20.shinyapps.io/Credit_Scoring/
+when: 1599297892.0388
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|credit_scoring.xlsx|Riskrating_Data.RData|Test.xlsx|Dataset
